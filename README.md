@@ -9,5 +9,7 @@ A great way to understand how the labelencoder works in assigning the classes co
 ## Structure
 The repository contains a interactive python notebook which contains the pre-processing, training and testing of the dataset on the chexpert data.
 <br>
+## Results
+![AUC Curve for DenseNet121](AUC_densenet.png)
 ## Doubts?
 Feel free to create pull requests for any issues or explainations.. would be happy to help 
